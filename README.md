@@ -1,1 +1,1 @@
-# weekly_python_exercises
+# python_exercises
